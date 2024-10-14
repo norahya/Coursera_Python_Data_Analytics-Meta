@@ -1,2 +1,2 @@
-# Coursera_Python_Data_Analytics-Meta
-In this repository I keep the different notebooks I worked on while taking this course.
+# Python Data Analytics Exercises
+This repository contains the code I developed during the Python Data Analytics course by Meta, offered on Coursera. The course introduced me to Python, where I learned to work with Jupyter Notebooks and fundamental Python concepts such as variables, Booleans, and conditionals. I further explored data manipulation and cleaning techniques using the Pandas library, followed by data visualization using Matplotlib. The final module involved building models with Python to analyze and interpret data, applying the OSEMN framework. This repository showcases my progress through various programming assignments, demonstrating my understanding of data analysis in Python.
